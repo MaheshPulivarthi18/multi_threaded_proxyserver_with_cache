@@ -2,10 +2,6 @@
 
 This project is implemented using `C` and Parsing of HTTP referred from <a href = "https://github.com/vaibhavnaagar/proxy-server"> Proxy Server </a>
 
-## Project Theory
-
-##### Introduction
-
 ##### Basic Working Flow of the Proxy Server:
 ![diagram-export-6-14-2024-6_56_02-PM](https://github.com/MaheshPulivarthi18/multi_threaded_proxyserver_with_cache/assets/134507390/ad941088-7537-414f-97a3-b568382f7686)
 
@@ -62,10 +58,15 @@ $ ./proxy <port no.>
 
 ## Demo
 - When website is opened for the first time (`url not found`) then cache will be miss.
+- ![Screenshot from 2024-06-14 19-25-04](https://github.com/MaheshPulivarthi18/multi_threaded_proxyserver_with_cache/assets/134507390/5aee4e2a-c07b-42a0-ab30-5745392277aa)
+
 - Then if you again open that website again then `Data is retrieved from the cache` will be printed.
+-![Screenshot from 2024-06-14 19-29-08](https://github.com/MaheshPulivarthi18/multi_threaded_proxyserver_with_cache/assets/134507390/f50347e2-187e-4281-8712-31a92ac67096)
+
+![Screenshot from 2024-06-14 19-30-38](https://github.com/MaheshPulivarthi18/multi_threaded_proxyserver_with_cache/assets/134507390/4f0c32c6-6107-4132-b31f-39cb945c9b23)
 
 ## Contributing
 
 Feel free to add some useful. You can see `How this code can be extended`. Use ideas from there and feel free to fork and CHANGE. 
 
-#### Enjoy CODE and pull requests are highly appreciated.
+### Pull requests are highly appreciated.
