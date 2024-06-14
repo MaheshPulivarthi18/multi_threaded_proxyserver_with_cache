@@ -1,4 +1,4 @@
-<h1>Multi Threaded Proxy Server with and without Cache</h1>
+<h1>Multi Threaded Proxy Server with LRU_CACHE</h1>
 
 This project is implemented using `C` and Parsing of HTTP referred from <a href = "https://github.com/vaibhavnaagar/proxy-server"> Proxy Server </a>
 
@@ -7,7 +7,8 @@ This project is implemented using `C` and Parsing of HTTP referred from <a href 
 ##### Introduction
 
 ##### Basic Working Flow of the Proxy Server:
-![](https://github.com/Lovepreet-Singh-LPSK/MultiThreadedProxyServerClient/blob/main/pics/UML.JPG)
+![diagram-export-6-14-2024-6_56_02-PM](https://github.com/MaheshPulivarthi18/multi_threaded_proxyserver_with_cache/assets/134507390/ad941088-7537-414f-97a3-b568382f7686)
+
 
 ##### How did we implement Multi-threading?
 - Used Semaphore instead of Condition Variables and pthread_join() and pthread_exit() function. 
