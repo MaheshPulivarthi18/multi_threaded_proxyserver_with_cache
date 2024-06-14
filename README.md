@@ -61,9 +61,7 @@ $ ./proxy <port no.>
 - ![Screenshot from 2024-06-14 19-25-04](https://github.com/MaheshPulivarthi18/multi_threaded_proxyserver_with_cache/assets/134507390/5aee4e2a-c07b-42a0-ab30-5745392277aa)
 
 - Then if you again open that website again then `Data is retrieved from the cache` will be printed.
--![Screenshot from 2024-06-14 19-29-08](https://github.com/MaheshPulivarthi18/multi_threaded_proxyserver_with_cache/assets/134507390/f50347e2-187e-4281-8712-31a92ac67096)
-
-![Screenshot from 2024-06-14 19-30-38](https://github.com/MaheshPulivarthi18/multi_threaded_proxyserver_with_cache/assets/134507390/4f0c32c6-6107-4132-b31f-39cb945c9b23)
+![Screenshot from 2024-06-14 20-58-58](https://github.com/MaheshPulivarthi18/multi_threaded_proxyserver_with_cache/assets/134507390/eb1fbe39-eae8-40d1-b0e0-95417025727f)
 
 ## Contributing
 
